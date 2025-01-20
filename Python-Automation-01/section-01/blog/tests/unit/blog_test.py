@@ -9,3 +9,4 @@ class BlogTest(TestCase):
         self.assertEqual('Test', b.title)
         self.assertEqual('Test Author', b.author)
         self.assertListEqual([], b.posts)
+        self.assertEqual(0, len(b.posts))
