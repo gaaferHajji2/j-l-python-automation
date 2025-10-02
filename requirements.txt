@@ -2,3 +2,5 @@ openpyxl
 requests
 beautifulsoup4
 lxml
+pdfminer.six
+PyPDF2
