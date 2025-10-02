@@ -1,6 +1,4 @@
-import pdfminer
 import pdfminer.high_level as hl
-import pdfminer.layout
 
 text = hl.extract_text('file-01.pdf', maxpages=3)
 
