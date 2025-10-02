@@ -4,3 +4,4 @@ beautifulsoup4
 lxml
 pdfminer.six
 PyPDF2
+python-docx
